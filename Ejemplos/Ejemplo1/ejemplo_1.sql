@@ -1,6 +1,4 @@
 ﻿
-
-
 USE master;
 
 
@@ -30,7 +28,7 @@ GO
 INSERT INTO Circulos (Radio)
 VALUES
 (1),
- (2)
+(2)
 
  GO
 
